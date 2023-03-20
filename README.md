@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Demo
+![ezgif com-optimize](https://user-images.githubusercontent.com/56942977/226456111-4266af36-e477-4e7a-8d34-563af6107ce5.gif)
 
-This project is a starting point for a Flutter application.
+[Open the demo video](https://youtu.be/xjw80zdEW0w)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
